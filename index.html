@@ -1,83 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Users</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f0f2f5;
-      padding: 20px;
-    }
-    .user-card {
-      background: white;
-      padding: 15px;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      margin-bottom: 15px;
-      max-width: 400px;
-    }
-    .user-card h2 {
-      margin: 0;
-      font-size: 20px;
-    }
-    .user-card p {
-      margin: 5px 0;
-      font-size: 14px;
-    }
-    #users-container{
-        display: flex;
-        width: 100%;
-        flex-wrap: wrap;
-        gap: 15px;
-    }
-  </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Users</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f2f5;
+            padding: 20px;
+        }
+
+        .user-card {
+            background-color: #ffffff;
+            border-radius: 12px;
+            padding: 20px;
+            margin: 16px auto;
+            max-width: 450px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .user-card h2 {
+            margin: 0;
+            font-size: 20px;
+        }
+
+        .user-card p {
+            margin: 5px 0;
+            font-size: 14px;
+        }
+
+        #users-container {
+            display: flex;
+            width: 100%;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+    </style>
 </head>
+
 <body>
 
-  <h1>Sample Clients</h1>
+    <h1>Sample Users</h1>
 
-  <div id="users-container"></div>
+    <div id="users-container"></div>
 
-  <script>
-    async function fetchUsers() {
-      try {
-        const response = await fetch('clients.json');
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
+    <script>
+        async function fetchUsers() {
+            try {
+                const response = await fetch('clients.json');
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const users = await response.json();
+                displayUsers(users);
+            } catch (error) {
+                console.error('There has been a problem with your fetch operation:', error);
+            }
         }
-        const users = await response.json();
-        displayUsers(users);
-      } catch (error) {
-        console.error('There has been a problem with your fetch operation:', error);
-      }
-    }
 
-    function displayUsers(users) {
-      const container = document.getElementById('users-container');
+        function displayUsers(users) {
+            const container = document.getElementById('users-container');
 
-      users.forEach(user => {
-        const card = document.createElement('div');
-        card.className = 'user-card';
+            users.forEach(user => {
+                const card = document.createElement('div');
+                card.className = 'user-card';
 
-        card.innerHTML = `
-          <h2>${user['Client Name']}</h2>
-          <p><strong>Application #:</strong> ${user['Application Number']}</p>
-          <p><strong>Occupation:</strong> ${user['Occupation']}</p>
-          <p><strong>Yearly Earnings:</strong> ${user['Yearly Earnings']}</p>
-          <p><strong>Net Worth:</strong> ${user['Net Worth']}</p>
-          <p><strong>Credit:</strong> ${user['Past Due Debt']}</p>
-          <p><strong>Exposure:</strong> ${user['Aggregate Exposure']}</p>
-          <p><strong>Email:</strong> ${user.Affiliations[0]}</p>
-          <p><strong>Phone:</strong> ${user.Affiliations[1]}</p>
-        `;
+                card.innerHTML = `
+                           <div class="user-card">
+                            <h2 class="user-name">${user['Client Name']}</h2>
+                            <hr>
+                            <p class="application-number"><strong>📄 Application #:</strong> ${user['Application Number']}</p>
+                            <p class="occupation"><strong>💼 Occupation:</strong> ${user['Occupation']}</p>
+                            <p class="yearly-earnings"><strong>💰 Yearly Earnings:</strong> ${user['Yearly Earnings']}</p>
+                            <p class="net-worth"><strong>🏦 Net Worth:</strong> ${user['Net Worth']}</p>
+                            <p class="past-due-debt"><strong>💳 Past Due Debt:</strong> ${user['Past Due Debt']}</p>
+                            <p class="aggregate-exposure"><strong>📊 Aggregate Exposure:</strong> ${user['Aggregate Exposure']}</p>
+                            <p class="email"><strong>📧 Email:</strong> ${user.Affiliations[0]}</p>
+                            <p class="phone"><strong>📞 Phone:</strong> ${user.Affiliations[1]}</p>
+                            </div>
+                            `;
+                container.appendChild(card);
+            });
+        }
 
-        container.appendChild(card);
-      });
-    }
-
-    fetchUsers();
-  </script>
+        fetchUsers();
+    </script>
 </body>
+
 </html>
