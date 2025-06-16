@@ -3,10 +3,10 @@
     "Application Number": "227516",
     "Client Name": "Ava Reyes",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "ava.reyes@webmail.org",
       "210.981.1982"
@@ -16,10 +16,10 @@
     "Application Number": "522303",
     "Client Name": "Jane Doe",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "jane.doe@example.com",
       "702.389.1149"
@@ -29,10 +29,10 @@
     "Application Number": "524521",
     "Client Name": "Kurtis Weissnat",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "kurtis.weissnat@mail.com",
       "415.512.7268"
@@ -42,10 +42,10 @@
     "Application Number": "313307",
     "Client Name": "Sarah Wilson",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$25k or less",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$13M to $13.9M",
     "Affiliations": [
       "sarah.wilson@webmail.org",
       "210.169.2544"
@@ -55,10 +55,10 @@
     "Application Number": "559830",
     "Client Name": "John Miller",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "john.miller@mail.com",
       "646.195.7912"
@@ -68,10 +68,10 @@
     "Application Number": "413671",
     "Client Name": "Kurtis Smith",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$12M to $12.9M",
     "Affiliations": [
       "kurtis.smith@webmail.org",
       "702.773.4977"
@@ -81,10 +81,10 @@
     "Application Number": "947215",
     "Client Name": "Carlos Miller",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "carlos.miller@billy.biz",
       "210.665.9497"
@@ -94,10 +94,10 @@
     "Application Number": "710184",
     "Client Name": "Liam Smith",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "liam.smith@billy.biz",
       "415.452.9804"
@@ -107,10 +107,10 @@
     "Application Number": "631022",
     "Client Name": "David Davis",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$5M to $5.9M",
     "Affiliations": [
       "david.davis@webmail.org",
       "702.761.5056"
@@ -120,10 +120,10 @@
     "Application Number": "939964",
     "Client Name": "Sarah Wilson",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "sarah.wilson@mail.com",
       "702.715.9140"
@@ -133,10 +133,10 @@
     "Application Number": "625984",
     "Client Name": "Sarah Weissnat",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$3M to $3.9M",
     "Affiliations": [
       "sarah.weissnat@example.com",
       "312.532.4762"
@@ -146,10 +146,10 @@
     "Application Number": "339910",
     "Client Name": "David Johnson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$100k - $150k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$13M to $13.9M",
     "Affiliations": [
       "david.johnson@billy.biz",
       "702.184.6659"
@@ -159,10 +159,10 @@
     "Application Number": "976586",
     "Client Name": "Sarah Weissnat",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "sarah.weissnat@webmail.org",
       "210.896.5373"
@@ -172,10 +172,10 @@
     "Application Number": "614969",
     "Client Name": "Sarah Weissnat",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "sarah.weissnat@webmail.org",
       "210.759.2860"
@@ -185,10 +185,10 @@
     "Application Number": "578564",
     "Client Name": "Emily Miller",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "emily.miller@mail.com",
       "702.828.9211"
@@ -198,10 +198,10 @@
     "Application Number": "179428",
     "Client Name": "Liam Johnson",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "liam.johnson@example.com",
       "210.836.4136"
@@ -211,10 +211,10 @@
     "Application Number": "428871",
     "Client Name": "John Anderson",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$5M to $5.9M",
     "Affiliations": [
       "john.anderson@billy.biz",
       "702.105.2169"
@@ -224,10 +224,10 @@
     "Application Number": "283237",
     "Client Name": "Kurtis Brown",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$6M to $6.9M",
     "Affiliations": [
       "kurtis.brown@billy.biz",
       "702.680.6665"
@@ -237,10 +237,10 @@
     "Application Number": "136489",
     "Client Name": "Emma Johnson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$12M to $12.9M",
     "Affiliations": [
       "emma.johnson@webmail.org",
       "702.504.2907"
@@ -250,10 +250,10 @@
     "Application Number": "493629",
     "Client Name": "Carlos Smith",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "carlos.smith@mail.com",
       "702.161.1538"
@@ -263,10 +263,10 @@
     "Application Number": "458061",
     "Client Name": "Kurtis Brown",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$5M to $5.9M",
     "Affiliations": [
       "kurtis.brown@billy.biz",
       "312.926.1131"
@@ -276,10 +276,10 @@
     "Application Number": "290953",
     "Client Name": "Carlos Johnson",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$5M - $10M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "carlos.johnson@billy.biz",
       "312.307.9175"
@@ -289,10 +289,10 @@
     "Application Number": "236874",
     "Client Name": "David Davis",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "david.davis@example.com",
       "646.290.2823"
@@ -302,10 +302,10 @@
     "Application Number": "261147",
     "Client Name": "John Wilson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$5M to $5.9M",
     "Affiliations": [
       "john.wilson@mail.com",
       "312.884.3181"
@@ -315,10 +315,10 @@
     "Application Number": "389986",
     "Client Name": "Ava Weissnat",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "ava.weissnat@example.com",
       "646.254.8283"
@@ -328,10 +328,10 @@
     "Application Number": "891838",
     "Client Name": "Sarah Weissnat",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "sarah.weissnat@mail.com",
       "312.463.5775"
@@ -341,10 +341,10 @@
     "Application Number": "757375",
     "Client Name": "Carlos Doe",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$3M to $3.9M",
     "Affiliations": [
       "carlos.doe@example.com",
       "210.972.1765"
@@ -354,10 +354,10 @@
     "Application Number": "430690",
     "Client Name": "Sarah Reyes",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "sarah.reyes@billy.biz",
       "415.526.1429"
@@ -367,10 +367,10 @@
     "Application Number": "825579",
     "Client Name": "Liam Doe",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$10M to $10.9M",
     "Affiliations": [
       "liam.doe@example.com",
       "210.498.8206"
@@ -380,10 +380,10 @@
     "Application Number": "687775",
     "Client Name": "Kurtis Wilson",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$25k or less",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "kurtis.wilson@mail.com",
       "210.113.7552"
@@ -393,10 +393,10 @@
     "Application Number": "513324",
     "Client Name": "Kurtis Doe",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "kurtis.doe@example.com",
       "312.777.6987"
@@ -406,10 +406,10 @@
     "Application Number": "341279",
     "Client Name": "Ava Doe",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "ava.doe@mail.com",
       "312.810.8299"
@@ -419,10 +419,10 @@
     "Application Number": "403750",
     "Client Name": "David Doe",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "david.doe@webmail.org",
       "415.428.3068"
@@ -432,10 +432,10 @@
     "Application Number": "317816",
     "Client Name": "Liam Miller",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$10M to $10.9M",
     "Affiliations": [
       "liam.miller@webmail.org",
       "702.341.4115"
@@ -445,10 +445,10 @@
     "Application Number": "684100",
     "Client Name": "Carlos Miller",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "carlos.miller@billy.biz",
       "312.892.4867"
@@ -458,10 +458,10 @@
     "Application Number": "260583",
     "Client Name": "Sarah Weissnat",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$10M to $10.9M",
     "Affiliations": [
       "sarah.weissnat@billy.biz",
       "646.524.2684"
@@ -471,10 +471,10 @@
     "Application Number": "301374",
     "Client Name": "Sarah Smith",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "sarah.smith@example.com",
       "646.627.7627"
@@ -484,10 +484,10 @@
     "Application Number": "956329",
     "Client Name": "Carlos Anderson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "carlos.anderson@example.com",
       "702.582.3707"
@@ -497,10 +497,10 @@
     "Application Number": "846688",
     "Client Name": "Liam Davis",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "liam.davis@webmail.org",
       "210.978.5777"
@@ -510,10 +510,10 @@
     "Application Number": "633068",
     "Client Name": "Jane Johnson",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "jane.johnson@webmail.org",
       "646.800.9521"
@@ -523,10 +523,10 @@
     "Application Number": "400367",
     "Client Name": "Carlos Smith",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$6M to $6.9M",
     "Affiliations": [
       "carlos.smith@billy.biz",
       "702.456.8567"
@@ -536,10 +536,10 @@
     "Application Number": "280968",
     "Client Name": "David Anderson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$25k or less",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "david.anderson@example.com",
       "312.778.1017"
@@ -549,10 +549,10 @@
     "Application Number": "570992",
     "Client Name": "Emma Weissnat",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "emma.weissnat@mail.com",
       "312.158.1933"
@@ -562,10 +562,10 @@
     "Application Number": "145623",
     "Client Name": "Sarah Weissnat",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$12M to $12.9M",
     "Affiliations": [
       "sarah.weissnat@billy.biz",
       "210.485.6589"
@@ -575,10 +575,10 @@
     "Application Number": "276669",
     "Client Name": "Liam Reyes",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$13M to $13.9M",
     "Affiliations": [
       "liam.reyes@webmail.org",
       "702.446.9529"
@@ -588,9 +588,9 @@
     "Application Number": "338976",
     "Client Name": "Sarah Smith",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Very Good 740-799",
+    "Past Due Debt": "N/A - Maintenance Item",
     "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "sarah.smith@example.com",
@@ -601,10 +601,10 @@
     "Application Number": "848481",
     "Client Name": "John Wilson",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "john.wilson@billy.biz",
       "312.996.2994"
@@ -614,10 +614,10 @@
     "Application Number": "295710",
     "Client Name": "David Weissnat",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "david.weissnat@billy.biz",
       "646.900.8557"
@@ -627,10 +627,10 @@
     "Application Number": "467978",
     "Client Name": "Carlos Brown",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "carlos.brown@mail.com",
       "702.531.2167"
@@ -640,10 +640,10 @@
     "Application Number": "860876",
     "Client Name": "Carlos Smith",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "carlos.smith@billy.biz",
       "312.309.1251"
@@ -653,10 +653,10 @@
     "Application Number": "541642",
     "Client Name": "Jane Miller",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$100k - $150k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$10M to $10.9M",
     "Affiliations": [
       "jane.miller@webmail.org",
       "646.237.3820"
@@ -666,10 +666,10 @@
     "Application Number": "444440",
     "Client Name": "Jane Reyes",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$25k or less",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "jane.reyes@billy.biz",
       "646.293.2395"
@@ -679,10 +679,10 @@
     "Application Number": "653593",
     "Client Name": "Emma Davis",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$5M - $10M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "emma.davis@mail.com",
       "415.196.7618"
@@ -692,10 +692,10 @@
     "Application Number": "199946",
     "Client Name": "Sarah Davis",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "sarah.davis@webmail.org",
       "646.794.4808"
@@ -705,10 +705,10 @@
     "Application Number": "525082",
     "Client Name": "Kurtis Weissnat",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$5M - $10M",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "kurtis.weissnat@example.com",
       "415.824.5470"
@@ -718,10 +718,10 @@
     "Application Number": "666602",
     "Client Name": "Ava Johnson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "ava.johnson@mail.com",
       "312.318.4455"
@@ -731,10 +731,10 @@
     "Application Number": "425444",
     "Client Name": "Carlos Doe",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "carlos.doe@webmail.org",
       "646.152.8233"
@@ -744,10 +744,10 @@
     "Application Number": "776362",
     "Client Name": "John Reyes",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$6M to $6.9M",
     "Affiliations": [
       "john.reyes@example.com",
       "312.323.3442"
@@ -757,10 +757,10 @@
     "Application Number": "323340",
     "Client Name": "Carlos Johnson",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$100k - $150k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "carlos.johnson@webmail.org",
       "210.171.4316"
@@ -770,10 +770,10 @@
     "Application Number": "876214",
     "Client Name": "David Smith",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "david.smith@webmail.org",
       "312.939.5710"
@@ -783,10 +783,10 @@
     "Application Number": "645231",
     "Client Name": "Emma Smith",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$100k - $150k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "emma.smith@billy.biz",
       "646.766.8410"
@@ -796,10 +796,10 @@
     "Application Number": "750504",
     "Client Name": "Emma Johnson",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$11M to $11.9M",
     "Affiliations": [
       "emma.johnson@example.com",
       "702.256.4218"
@@ -809,10 +809,10 @@
     "Application Number": "938060",
     "Client Name": "Kurtis Brown",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "kurtis.brown@billy.biz",
       "210.587.4515"
@@ -822,10 +822,10 @@
     "Application Number": "335080",
     "Client Name": "Ava Doe",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$13M to $13.9M",
     "Affiliations": [
       "ava.doe@webmail.org",
       "702.993.1461"
@@ -835,10 +835,10 @@
     "Application Number": "839003",
     "Client Name": "David Johnson",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "david.johnson@mail.com",
       "312.164.4435"
@@ -848,10 +848,10 @@
     "Application Number": "495825",
     "Client Name": "Kurtis Smith",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$1M to $1.9M",
     "Affiliations": [
       "kurtis.smith@webmail.org",
       "646.180.3212"
@@ -861,10 +861,10 @@
     "Application Number": "998260",
     "Client Name": "John Anderson",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$100k - $150k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "john.anderson@example.com",
       "702.777.3546"
@@ -874,10 +874,10 @@
     "Application Number": "315839",
     "Client Name": "Emily Weissnat",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$6M to $6.9M",
     "Affiliations": [
       "emily.weissnat@example.com",
       "210.620.9978"
@@ -887,10 +887,10 @@
     "Application Number": "349075",
     "Client Name": "Liam Miller",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "liam.miller@mail.com",
       "646.804.3401"
@@ -900,10 +900,10 @@
     "Application Number": "468828",
     "Client Name": "Liam Weissnat",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "liam.weissnat@mail.com",
       "702.610.3248"
@@ -913,10 +913,10 @@
     "Application Number": "199554",
     "Client Name": "Jane Doe",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "jane.doe@webmail.org",
       "702.686.7722"
@@ -926,10 +926,10 @@
     "Application Number": "427461",
     "Client Name": "Emma Weissnat",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$5M to $5.9M",
     "Affiliations": [
       "emma.weissnat@example.com",
       "415.958.4229"
@@ -939,10 +939,10 @@
     "Application Number": "976232",
     "Client Name": "Sarah Davis",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "sarah.davis@example.com",
       "210.903.2809"
@@ -952,10 +952,10 @@
     "Application Number": "237381",
     "Client Name": "Emma Brown",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$5M to $5.9M",
     "Affiliations": [
       "emma.brown@mail.com",
       "415.338.2607"
@@ -965,10 +965,10 @@
     "Application Number": "752627",
     "Client Name": "Kurtis Reyes",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$4M to $4.9M",
     "Affiliations": [
       "kurtis.reyes@billy.biz",
       "210.680.1240"
@@ -978,10 +978,10 @@
     "Application Number": "829732",
     "Client Name": "Liam Miller",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "liam.miller@mail.com",
       "702.885.1517"
@@ -991,10 +991,10 @@
     "Application Number": "170236",
     "Client Name": "Emma Reyes",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$6M to $6.9M",
     "Affiliations": [
       "emma.reyes@mail.com",
       "312.856.4678"
@@ -1004,10 +1004,10 @@
     "Application Number": "208665",
     "Client Name": "Emily Anderson",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Good Credit 670-739",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "emily.anderson@mail.com",
       "702.581.8313"
@@ -1017,10 +1017,10 @@
     "Application Number": "590790",
     "Client Name": "Ava Miller",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "ava.miller@mail.com",
       "312.547.8189"
@@ -1030,10 +1030,10 @@
     "Application Number": "809904",
     "Client Name": "David Wilson",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "david.wilson@mail.com",
       "415.159.7040"
@@ -1043,10 +1043,10 @@
     "Application Number": "606399",
     "Client Name": "Jane Weissnat",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$25k or less",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "jane.weissnat@webmail.org",
       "312.891.7500"
@@ -1056,10 +1056,10 @@
     "Application Number": "685713",
     "Client Name": "Carlos Wilson",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$12M to $12.9M",
     "Affiliations": [
       "carlos.wilson@mail.com",
       "312.727.1767"
@@ -1069,10 +1069,10 @@
     "Application Number": "111656",
     "Client Name": "Jane Wilson",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "jane.wilson@billy.biz",
       "415.861.1651"
@@ -1082,10 +1082,10 @@
     "Application Number": "485772",
     "Client Name": "John Davis",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "john.davis@billy.biz",
       "415.787.2739"
@@ -1095,10 +1095,10 @@
     "Application Number": "290896",
     "Client Name": "Emily Johnson",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$3M to $3.9M",
     "Affiliations": [
       "emily.johnson@billy.biz",
       "646.253.3941"
@@ -1108,10 +1108,10 @@
     "Application Number": "386372",
     "Client Name": "Emily Davis",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$500k - $1.2M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "emily.davis@mail.com",
       "415.534.9795"
@@ -1121,10 +1121,10 @@
     "Application Number": "524344",
     "Client Name": "Kurtis Brown",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "kurtis.brown@example.com",
       "702.838.1320"
@@ -1134,10 +1134,10 @@
     "Application Number": "194031",
     "Client Name": "Liam Miller",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "liam.miller@example.com",
       "312.449.9623"
@@ -1147,10 +1147,10 @@
     "Application Number": "702649",
     "Client Name": "Jane Reyes",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$150k - $200k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "jane.reyes@billy.biz",
       "210.710.9645"
@@ -1160,10 +1160,10 @@
     "Application Number": "819029",
     "Client Name": "Emily Anderson",
     "Occupation": "Accountant",
-    "Yearly Earnings": "$101k - $200k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$7M to $7.9M",
     "Affiliations": [
       "emily.anderson@billy.biz",
       "646.564.3499"
@@ -1173,10 +1173,10 @@
     "Application Number": "195311",
     "Client Name": "Ava Anderson",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$50k - $100k",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$500k - $999k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "ava.anderson@mail.com",
       "210.759.2440"
@@ -1186,10 +1186,10 @@
     "Application Number": "441716",
     "Client Name": "Carlos Smith",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$350k - $500k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$2M+",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "carlos.smith@mail.com",
       "415.535.9522"
@@ -1199,10 +1199,10 @@
     "Application Number": "819038",
     "Client Name": "Jane Miller",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$10M+",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Good Credit - 650 to 749",
+    "Aggregate Exposure": "$10M to $10.9M",
     "Affiliations": [
       "jane.miller@mail.com",
       "646.455.3485"
@@ -1212,10 +1212,10 @@
     "Application Number": "591582",
     "Client Name": "Sarah Brown",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$25k - $50k",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "N/A - Maintenance Item",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "sarah.brown@example.com",
       "702.109.7059"
@@ -1225,10 +1225,10 @@
     "Application Number": "474179",
     "Client Name": "John Miller",
     "Occupation": "Lawyer",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$200k - $350k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$14M to $14.9M",
     "Affiliations": [
       "john.miller@billy.biz",
       "210.721.6647"
@@ -1238,10 +1238,10 @@
     "Application Number": "596725",
     "Client Name": "John Johnson",
     "Occupation": "Marketing Manager",
-    "Yearly Earnings": "$51k - $100k",
+    "Yearly Earnings": "$100k - $150k",
     "Net Worth": "<$500k",
-    "Past Due Debt": "Very Good 740-799",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$2M to $2.9M",
     "Affiliations": [
       "john.johnson@billy.biz",
       "312.451.2507"
@@ -1251,10 +1251,10 @@
     "Application Number": "130232",
     "Client Name": "David Weissnat",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$6M to $6.9M",
     "Affiliations": [
       "david.weissnat@billy.biz",
       "415.974.2755"
@@ -1264,10 +1264,10 @@
     "Application Number": "986445",
     "Client Name": "John Smith",
     "Occupation": "Software Engineer",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$2M - $5M",
     "Net Worth": "$2M+",
-    "Past Due Debt": "Great Credit - 750 to 850",
-    "Aggregate Exposure": "<$500k",
+    "Past Due Debt": "None | Average Credit - 620 to 649",
+    "Aggregate Exposure": "$8M to $8.9M",
     "Affiliations": [
       "john.smith@mail.com",
       "702.532.6391"
@@ -1277,10 +1277,10 @@
     "Application Number": "801233",
     "Client Name": "Sarah Miller",
     "Occupation": "Real Estate Agent",
-    "Yearly Earnings": "$201k+",
+    "Yearly Earnings": "$5M - $10M",
     "Net Worth": "$1M to $1.9M",
-    "Past Due Debt": "Fair Credit 580-669",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$9M to $9.9M",
     "Affiliations": [
       "sarah.miller@example.com",
       "210.888.4711"
@@ -1290,10 +1290,10 @@
     "Application Number": "740850",
     "Client Name": "John Miller",
     "Occupation": "Doctor",
-    "Yearly Earnings": "$25k - $50k",
+    "Yearly Earnings": "$1.2M - $2M",
     "Net Worth": "$500k - $999k",
-    "Past Due Debt": "Poor Credit < 580",
-    "Aggregate Exposure": "$1M to $1.9M",
+    "Past Due Debt": "None | Great Credit - 750 to 850",
+    "Aggregate Exposure": "$10M to $10.9M",
     "Affiliations": [
       "john.miller@billy.biz",
       "646.866.2708"
